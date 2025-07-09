@@ -13,13 +13,12 @@ This project is the official website for the PLATFORME application.
     git clone https://github.com/yourusername/platforme-website.git
     ```
 2. **Install dependencies:**
-    ```bash
-    npm install
-    ```
-3. **Run the development server:**
-    ```bash
-    npm start
-    ```
+
+pnpm install
+
+pnpm build
+
+pnpm dev or start
 
 ## Folder Structure
 
