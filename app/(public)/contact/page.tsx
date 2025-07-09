@@ -158,7 +158,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="font-semibold mb-1">Email</h3>
-                      <p className="text-muted-foreground">hamzazekhnini4@gmail.com</p>
+                      <p className="text-muted-foreground">test2001@gmail.com</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
@@ -167,7 +167,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="font-semibold mb-1">Téléphone</h3>
-                      <p className="text-muted-foreground">+212 6 84 95 65 01</p>
+                      <p className="text-muted-foreground">+212 6 84 25 85 01</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
