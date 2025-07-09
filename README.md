@@ -14,12 +14,14 @@ This project is the official website for the PLATFORME application.
     ```
 2. **Install dependencies:**
 
+ ```bash
 pnpm install
 
 pnpm build
 
 pnpm dev or start
 
+ ```
 ## Folder Structure
 
 - `/src` - Main source code
